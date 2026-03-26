@@ -3,7 +3,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/lordsinstitute/it-department.svg)](https://github.com/lordsinstitute/it-department/graphs/contributors)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/lordsinstitute/it-department.svg)](https://github.com/lordsinstitute/it-department/pulls)
 
-# 💻 IT Department – Lords Institute of Engineering & Technology
+# IT Department – Lords Institute of Engineering & Technology
 
 <p align="center">
   <b>Department of Information Technology</b><br/>
